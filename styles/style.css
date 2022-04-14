@@ -1,0 +1,34 @@
+
+
+
+.main{
+    background-color: white;
+    width: 390px;
+    height: 350px;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+
+.content{
+    margin-left: 25px;
+}
+
+.show{
+    visibility: visible;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+.bottom{
+    margin-top: 10px;
+}
+
+.bottom h3{
+    display: inline;
+}
+
+
+
